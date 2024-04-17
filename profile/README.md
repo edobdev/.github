@@ -10,7 +10,7 @@
 
 ### EDOB development rules
 1. Minimize dependencies
-2. No runtime dependency
+2. No runtime dependency (if libraries)
 
 ## Company
 Web: [Home](https://edob.dev)   
