@@ -3,6 +3,10 @@
  
 I mainly develop services that run on top of Cloudflare's services or libraries to make the service more convenient to use.
 
+### EDOB development rules
+1. Minimize dependencies
+2. No runtime dependency
+
 ## Company
 Web: [Home](https://edob.dev)   
 Email: [contact@edob.dev](mailto:contact@edob.dev)   
